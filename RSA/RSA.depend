@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623357639 source:c:\users\mahmo\desktop\assignment\rsa\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+
